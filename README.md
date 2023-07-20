@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Grzegorz Krugły @gkrugly
 - 👀 I’m interested in software development, sailing, diy electronics design, geocaching and much more
-- 🌱 I’m currently learning the Endgame project's web code
+- 🌱 I’m currently transitioning projects from China to Poland
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me: company e-mail and Teams, ask for private phone number, etc.
 
